@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Prakhar Upadhyay(24BSA10143)
+- Name: Sarvagya Jain(24BCE10087)
 - Course: Open Source Software
 - Project Title: Open Source Audit
 
